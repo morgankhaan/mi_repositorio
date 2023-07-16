@@ -1,0 +1,4 @@
+#se usa para indicar qué archivos locales no se van a mandar en el commit
+
+#ignoralos archivos de texto
+*.txt 
